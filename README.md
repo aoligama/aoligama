@@ -7,7 +7,7 @@ My name is Amanda Gama and I'm a Front-End developer/. I'm from Brazil, living i
 ## 🔧 Technologies & Tools
 -->
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aoligama/aoligama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
