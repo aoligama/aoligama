@@ -9,7 +9,7 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source**
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter and Star Wars
 - 🗣️ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-oliveira-da-gama-56889a123/)](https://www.linkedin.com/in/amanda-oliveira-da-gama-56889a123/)
