@@ -1,16 +1,16 @@
-### Hi, there! 👋
+## Hi, there! 👋
 
 My name is Amanda Gama and I'm a Front-End developer/. I'm from Brazil, living in São Paulo and currently working at Popstand. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
-## 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 
 <a href="https://github.com/aoligama/aoligama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-## 📈 GitHub Stats
+#### 📈 GitHub Stats
 
 <a href="https://github.com/aoligama/aoligama">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoligama&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
