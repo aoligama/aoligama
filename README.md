@@ -1,6 +1,6 @@
 ## Hi, there! 👋
 
-My name is Amanda Gama and I'm a Front-End developer/. I'm from Brazil, living in São Paulo and currently working at Popstand. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Amanda and I'm a Front-End developer/. I'm from Brazil, living in São Paulo and currently working at Popstand. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 #### 🔧 Technologies & Tools
