@@ -17,7 +17,7 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 [![Twitter Badge](https://img.shields.io/badge/-aoligama-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aoligama)](https://twitter.com/aoligama)
 [![Gmail Badge](https://img.shields.io/badge/-amgama17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amgama17@gmail.com)](mailto:amgama17@gmail.com)
 
-#### 🔧 Technologies & Tools
+##### 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -41,6 +41,6 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama&hide=TeX&layout=compact)
 
-#### 📈 GitHub Stats
+##### ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aoligama&count_private=true&show_icons=true&include_all_commits=true)
