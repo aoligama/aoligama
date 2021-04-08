@@ -13,7 +13,7 @@ My name is Amanda Gama and I'm a Front-End developer/. I'm from Brazil, living i
 #### 📈 GitHub Stats
 
 <a href="https://github.com/aoligama/aoligama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoligama&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoligama&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amanda's GitHub Stats" />
 </a>
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
