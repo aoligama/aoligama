@@ -1,6 +1,6 @@
 ## Hi, there! 👋
 
-My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at KoreConX (Canadá). I am always open to collaborating on projects and innovative/disruptive ideas. 
+My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at KoreConX (Canada). I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 ##### BIO
