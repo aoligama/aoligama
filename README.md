@@ -5,7 +5,7 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 
 ##### BIO
 
-- 🏢 I'm currently working at **Popstand**
+- 🏢 I'm currently working at **KoreConX**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source**
