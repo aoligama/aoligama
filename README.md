@@ -12,7 +12,7 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter and Star Wars
 - 🗣️ Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-oliveira-da-gama-56889a123/)](https://www.linkedin.com/in/amanda-oliveira-da-gama-56889a123/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda-Gama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaogama/)](https://www.linkedin.com/in/amandaogama/)
 [![Instagram Badge](https://img.shields.io/badge/-amandag.dev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amandag.dev/)](https://www.instagram.com/amandag.dev/?hl=pt-br)
 [![Twitter Badge](https://img.shields.io/badge/-aoligama-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aoligama)](https://twitter.com/aoligama)
 [![Gmail Badge](https://img.shields.io/badge/-amgama17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amgama17@gmail.com)](mailto:amgama17@gmail.com)
