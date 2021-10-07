@@ -5,11 +5,11 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 
 ##### BIO
 
-- 🏢 I'm currently working at **Popstand**
+- 🏢 Working at **Popstand**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- 🌱 Learning all about **Open Source**
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter and Star Wars
+- 🌱 Learning all about **Open Source & JavaScript**
+- 🎓 Studying Analysis and Systems Development at [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 - 🗣️ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaogama/)](https://www.linkedin.com/in/amandaogama/)
