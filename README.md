@@ -41,7 +41,7 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama&hide=TeX&layout=compact)
 
-##### ⚡ Study Sessions:
+##### 📔 Study Sessions:
 - [Python](https://github.com/aoligama/python-studies)
 
 ##### ⚡ GitHub Stats
