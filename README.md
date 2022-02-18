@@ -44,7 +44,3 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 ##### 📔 Study Sessions:
 - [Python](https://github.com/aoligama/python-studies)
 - [Node.js](https://github.com/aoligama/nodejs-studies)
-
-##### ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aoligama&count_private=true&show_icons=true&include_all_commits=true)
