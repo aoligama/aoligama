@@ -1,11 +1,11 @@
 ## Hi, there! 👋
 
-My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at Popstand. I am always open to collaborating on projects and innovative/disruptive ideas. 
+My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at Entermotion. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 ##### BIO
 
-- 🏢 Working at **Popstand (CA)**
+- 🏢 Working at **Entermotion (KS)**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source & JavaScript**
