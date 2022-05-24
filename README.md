@@ -6,7 +6,7 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 ##### BIO
 
 - 🏢 Working at **Popstand (CA)**
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`, `.vue`
+- ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source & JavaScript**
 - 🎓 Studying Analysis and Systems Development at [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
