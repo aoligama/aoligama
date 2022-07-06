@@ -1,6 +1,6 @@
 ## Hi, there! 👋
 
-My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at Entermotion. I am always open to collaborating on projects and innovative/disruptive ideas. 
+My name is Amanda and I'm a Senior React Native Engineer 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at Entermotion. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 ##### BIO
@@ -8,7 +8,7 @@ My name is Amanda and I'm a Front-End developer 👩🏻‍💻. I'm from Brazil
 - 🏢 Working at **Entermotion (KS)**
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- 🌱 Learning all about **Open Source & JavaScript**
+- 🌱 Learning all about **Open Source, RN and TypeScript**
 - 🎓 Studying Analysis and Systems Development at [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 - 🗣️ Find out more about me & feel free to connect with me here:
 
