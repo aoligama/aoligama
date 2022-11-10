@@ -9,7 +9,7 @@ My name is Amanda and I'm a Senior React Native Engineer with 6+ years of experi
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source, RN and TypeScript**
-- 🎓 Studying Analysis and Systems Development at [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+- 🎓 Computer Engineering at [IMPACTA](https://www.impacta.edu.br/)
 - 🗣️ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaogama/)](https://www.linkedin.com/in/amandaogama/)
