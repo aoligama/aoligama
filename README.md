@@ -39,7 +39,3 @@ My name is Amanda and I'm a Senior React Native Engineer with 6+ years of experi
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama&hide=TeX&layout=compact)
-
-##### 📔 Study Sessions:
-- [Python](https://github.com/aoligama/python-studies)
-- [Node.js](https://github.com/aoligama/nodejs-studies)
