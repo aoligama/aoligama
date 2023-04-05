@@ -38,6 +38,12 @@ My name is Amanda and I'm a Senior Mobile Engineer with 6+ years of experience ð
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama&hide=TeX&layout=compact)
+##### ðŸ“Š GitHub Stats
+<a href="https://github.com/aoligama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama" />
+</a>
+<a href="https://github.com/aoligama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoligama&show_icons=true&line_height=27&count_private=true" alt="Amanda's GitHub Stats" />
+</a>
 
 ![Snake animation](https://github.com/aoligama/aoligama/blob/output/github-contribution-grid-snake.svg)
