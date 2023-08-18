@@ -13,7 +13,6 @@ My name is Amanda and I'm a Senior Mobile Engineer with 6+ years of experience �
 - 🗣️ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaogama/)](https://www.linkedin.com/in/amandaogama/)
-[![Instagram Badge](https://img.shields.io/badge/-amandag.dev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amandag.dev/)](https://www.instagram.com/amandag.dev/?hl=pt-br)
 [![Gmail Badge](https://img.shields.io/badge/-amgama17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amgama17@gmail.com)](mailto:amgama17@gmail.com)
 
 ##### 🔧 Technologies & Tools
