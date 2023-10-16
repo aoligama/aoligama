@@ -44,5 +44,3 @@ My name is Amanda and I'm a Senior Mobile Engineer with 6+ years of experience ð
 <a href="https://github.com/aoligama">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoligama&show_icons=true&line_height=27&count_private=true" alt="Amanda's GitHub Stats" />
 </a>
-
-![Snake animation](https://github.com/aoligama/aoligama/blob/output/github-contribution-grid-snake.svg)
