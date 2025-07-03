@@ -1,6 +1,6 @@
 ## Hi, there! 👋
 
-My name is Amanda and I'm a Senior Mobile Engineer with 6+ years of experience 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at Entermotion. I am passionate about technology and programming, with a strong interpersonal relationship, a proactive and responsible person. I am always open to collaborating on projects and innovative/disruptive ideas. 
+My name is Amanda and I'm a Senior Mobile Engineer with 8+ years of experience 👩🏻‍💻. I'm from Brazil, living in São Paulo and currently working at Entermotion. I am passionate about technology and programming, with a strong interpersonal relationship, a proactive and responsible person. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 ##### BIO
