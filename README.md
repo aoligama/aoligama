@@ -7,7 +7,6 @@ My name is Amanda and I'm a Senior Mobile Engineer with 8+ years of experience �
 
 - 🏢 Working at **Entermotion (KS)**
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.vue`
-- 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source, RN and TypeScript**
 - 🎓 Computer Engineering at [IMPACTA](https://www.impacta.edu.br/)
 - 🗣️ Find out more about me & feel free to connect with me here:
