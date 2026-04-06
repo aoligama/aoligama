@@ -49,11 +49,3 @@ I'm passionate about building apps where quality really matters — strong UX, s
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-##### 📊 GitHub Stats
-<a href="https://github.com/aoligama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoligama" />
-</a>
-<a href="https://github.com/aoligama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoligama&show_icons=true&line_height=27&count_private=true" alt="Amanda's GitHub Stats" />
-</a>
